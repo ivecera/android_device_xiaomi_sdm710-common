@@ -16,8 +16,8 @@
 -->
 <resources>
     <!-- Values for Dirac headset pref -->
-    <string-array name="dirac_headset_pref_entries" translatable="false">
-        <item>@string/dirac_headset_default</item>
+    <string-array name="dirac_headset_pref_entries">
+        <item>@string/dirac_default</item>
         <item>@string/dirac_headset_earbuds</item>
         <item>@string/dirac_headset_in_ear_2013</item>
         <item>@string/dirac_headset_piston_1</item>
@@ -53,7 +53,6 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
-        <item>12</item>
         <item>13</item>
         <item>14</item>
         <item>15</item>
@@ -68,8 +67,8 @@
     </string-array>
 
     <!-- Values for Dirac preset pref -->
-    <string-array name="dirac_preset_pref_entries" translatable="false">
-        <item>@string/dirac_preset_default</item>
+    <string-array name="dirac_preset_pref_entries">
+        <item>@string/dirac_default</item>
         <item>@string/dirac_preset_rock</item>
         <item>@string/dirac_preset_jazz</item>
         <item>@string/dirac_preset_pop</item>
